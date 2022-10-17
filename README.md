@@ -4,7 +4,7 @@
 
 1. `npm install`
 2. `npm start`
-3. View on `http://localhost:3000/`
+3. View on `http://localhost:3000/` (recommended to view on Chrome and I done my testing and developing on it. But other browsers should be fine)
 
 ## Libraries Used
 
